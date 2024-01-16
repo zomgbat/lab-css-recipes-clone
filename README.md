@@ -15,7 +15,7 @@
   - Create and link an external CSS stylesheet with an HTML document.
   - Use *id* and *class* selectors to apply CSS styles to elements on a webpage.
   - Display images in a webpage using HTML image tags and CSS `background` property.
-  - Submit completed work using Git and GitHub by creating a pull request.
+  - Submit completed work using Git and GitHub by creating a pull request. change
 
   <br>
   <hr> 
